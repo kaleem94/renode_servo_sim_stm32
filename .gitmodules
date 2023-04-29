@@ -1,0 +1,3 @@
+[submodule "renode_servo_sim"]
+	path = renode_servo_sim
+	url = https://github.com/kaleem94/renode_servo_sim.git
